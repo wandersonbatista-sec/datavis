@@ -14,7 +14,7 @@
 
 ## 2 - API Vega-Lite - Exercícios
 
-[index1.html](atividades/index.html)<br>
+[index.html](atividades/index.html)<br>
 
 ---
 
