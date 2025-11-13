@@ -11,6 +11,16 @@
 [index09.html](basic/index09.html)<br>
 [index10.html](basic/index10.html)<br>
 
+
+## 2 - API Vega-Lite - Exercícios
+
+[index1.html](atividades/index.html)<br>
+
+---
+
+
+
+
 ---
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
